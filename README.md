@@ -1,6 +1,6 @@
-# PhoneGap Build Starter Application
+# Hello World PhoneGap Application
 
-> A Hello World application to get started with PhoneGap Build.
+> A Hello World application built with PhoneGap
 
 ## Usage
 
@@ -12,11 +12,15 @@
 
     /www/spec.html
 
+### PhoneGap CLI
+
+This repository is automatically downloaded by [phonegap-cli][phonegap-cli-url].
+
 ### PhoneGap/Build
 
 Create a new app with the following repository:
 
-    https://github.com/phonegap/phonegap-start.git
+    https://github.com/phonegap/phonegap-app-hello-world.git
 
 ## Updating the Application
 
@@ -46,5 +50,6 @@ Replace `<h1>Apache Cordova</h1>` with `<h1>PhoneGap</h1>`.
 
     $ git tag x.x.x
 
+[phonegap-cli-url]: http://github.com/mwbrooks/phonegap-cli
 [cordova-app]: http://github.com/apache/cordova-app-hello-world
 
